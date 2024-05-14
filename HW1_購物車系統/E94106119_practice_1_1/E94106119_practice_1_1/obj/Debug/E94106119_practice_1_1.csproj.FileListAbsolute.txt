@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_1\E94106119_practice_1_1\obj\Debug\E94106119_practice_1_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_1\E94106119_practice_1_1\obj\Debug\E94106119_practice_1_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_1\E94106119_practice_1_1\bin\Debug\E94106119_practice_1_1.exe.config
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_1\E94106119_practice_1_1\bin\Debug\E94106119_practice_1_1.exe
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_1\E94106119_practice_1_1\bin\Debug\E94106119_practice_1_1.pdb
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_1\E94106119_practice_1_1\obj\Debug\E94106119_practice_1_1.exe
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_1\E94106119_practice_1_1\obj\Debug\E94106119_practice_1_1.pdb

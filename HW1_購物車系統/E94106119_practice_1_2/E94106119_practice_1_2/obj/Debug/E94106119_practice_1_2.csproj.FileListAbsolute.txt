@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_2\E94106119_practice_1_2\bin\Debug\E94106119_practice_1_2.exe.config
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_2\E94106119_practice_1_2\bin\Debug\E94106119_practice_1_2.exe
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_2\E94106119_practice_1_2\bin\Debug\E94106119_practice_1_2.pdb
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_2\E94106119_practice_1_2\obj\Debug\E94106119_practice_1_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_2\E94106119_practice_1_2\obj\Debug\E94106119_practice_1_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_2\E94106119_practice_1_2\obj\Debug\E94106119_practice_1_2.exe
+C:\Users\User\Desktop\112-1\視窗程設\E94106119_practice_1_2\E94106119_practice_1_2\obj\Debug\E94106119_practice_1_2.pdb
+C:\Users\User\Desktop\112-1\視窗程設\作業1\E94106119_practice_1_2\E94106119_practice_1_2\bin\Debug\E94106119_practice_1_2.exe.config
+C:\Users\User\Desktop\112-1\視窗程設\作業1\E94106119_practice_1_2\E94106119_practice_1_2\bin\Debug\E94106119_practice_1_2.exe
+C:\Users\User\Desktop\112-1\視窗程設\作業1\E94106119_practice_1_2\E94106119_practice_1_2\bin\Debug\E94106119_practice_1_2.pdb
+C:\Users\User\Desktop\112-1\視窗程設\作業1\E94106119_practice_1_2\E94106119_practice_1_2\obj\Debug\E94106119_practice_1_2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\112-1\視窗程設\作業1\E94106119_practice_1_2\E94106119_practice_1_2\obj\Debug\E94106119_practice_1_2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\112-1\視窗程設\作業1\E94106119_practice_1_2\E94106119_practice_1_2\obj\Debug\E94106119_practice_1_2.exe
+C:\Users\User\Desktop\112-1\視窗程設\作業1\E94106119_practice_1_2\E94106119_practice_1_2\obj\Debug\E94106119_practice_1_2.pdb
