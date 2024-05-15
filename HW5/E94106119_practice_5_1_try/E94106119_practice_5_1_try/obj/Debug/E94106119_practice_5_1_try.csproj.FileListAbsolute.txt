@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\bin\Debug\E94106119_practice_5_1_try.exe.config
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\bin\Debug\E94106119_practice_5_1_try.exe
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\bin\Debug\E94106119_practice_5_1_try.pdb
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\obj\Debug\E94106119_practice_5_1_try.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\obj\Debug\E94106119_practice_5_1_try.Form1.resources
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\obj\Debug\E94106119_practice_5_1_try.Properties.Resources.resources
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\obj\Debug\E94106119_practice_5_1_try.csproj.GenerateResource.cache
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\obj\Debug\E94106119_practice_5_1_try.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\obj\Debug\E94106119_practice_5_1_try.exe
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業5\E94106119_practice_5_1_try\E94106119_practice_5_1_try\obj\Debug\E94106119_practice_5_1_try.pdb
