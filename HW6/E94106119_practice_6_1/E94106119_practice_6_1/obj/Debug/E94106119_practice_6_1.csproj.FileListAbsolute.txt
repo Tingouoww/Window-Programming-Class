@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\bin\Debug\E94106119_practice_6_1.exe.config
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\bin\Debug\E94106119_practice_6_1.exe
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\bin\Debug\E94106119_practice_6_1.pdb
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\obj\Debug\E94106119_practice_6_1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\obj\Debug\E94106119_practice_6_1.Form1.resources
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\obj\Debug\E94106119_practice_6_1.Properties.Resources.resources
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\obj\Debug\E94106119_practice_6_1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\obj\Debug\E94106119_practice_6_1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\obj\Debug\E94106119_practice_6_1.exe
+C:\Users\User\Desktop\112-1\視窗程設\作業\作業6\E94106119_practice_6_1\E94106119_practice_6_1\obj\Debug\E94106119_practice_6_1.pdb
